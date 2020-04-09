@@ -1,0 +1,8 @@
+.edit_user, .delete_user, #add_user {
+    color: blue;
+}
+
+.edit_user:hover, .delete_user:hover, #add_user:hover {
+    color: red;
+    cursor: pointer;
+}
